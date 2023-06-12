@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251336510570",
+    "project_id": "coffee-selector-cb5e4",
+    "storage_bucket": "coffee-selector-cb5e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251336510570:android:6ce8282d54e294cad00e13",
+        "android_client_info": {
+          "package_name": "com.coffee_selector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVFEpxruzz_wShpjZjJuMkFcDOwXc4Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
